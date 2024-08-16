@@ -1,0 +1,63 @@
+header { 
+    background-color:rgb(177, 239, 239);
+    border-bottom-left-radius:20px ;
+    border-bottom-right-radius:20px ;
+    height: 50px;
+    display: flex;
+justify-content: center;
+margin-bottom: 50px;    
+}
+#table {
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 150%;
+   height: 150%;
+   background-image: url(./periodic\ table\ background.jpg);
+    
+    
+}
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+video {
+    height: 10;
+    margin-left: 550px;
+    background-color: rgb(215, 255, 242);
+ 
+    
+}
+ #Chess{
+  
+    /* margin-left:500px; */
+    padding-left: 480px;
+    background-image: url(./Chess\ board\ background\ ideas.jpg);
+
+ 
+ }
+ h3 {
+    margin-left: 690px;       
+ }
+ .form {
+    
+    justify-content: center;
+ 
+    text-align: center;
+    /* background-color: rgb(195, 255, 235); */
+    background-image: url(./form\ background.jpg);
+ }
+ form {
+ 
+   
+ }
+ body {
+    background-color: rgb(210, 255, 240);
+
+ }
+.button--style-red{
+    color: yellow;
+}
